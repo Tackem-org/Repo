@@ -1,0 +1,10 @@
+{
+    "fullname": "Base User System",
+    "service_name": "user",
+    "service_type": "system",
+    "icon": "fas-user",
+    "description": "Base User System",
+    "authur": "Tackem",
+    "github_repo": "github.com/Tackem-org/User",
+    "docker_image": ""
+}

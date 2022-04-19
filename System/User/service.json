@@ -5,6 +5,6 @@
     "icon": "fas-user",
     "description": "Base User System",
     "authur": "Tackem",
-    "github_repo": "github.com/Tackem-org/User",
+    "github_repo": "Tackem-org/User",
     "docker_image": ""
 }

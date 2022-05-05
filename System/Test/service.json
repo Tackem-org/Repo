@@ -1,0 +1,12 @@
+{
+    "fullname": "Test System",
+    "service_name": "test",
+    "service_type": "system",
+    "icon": "fa-tent",
+    "description": "Test System",
+    "authur": "Tackem",
+    "github_repo": "Tackem-org/Testing",
+    "docker_image": "",
+    "multi": false,
+    "single_run": false
+}
